@@ -23,6 +23,7 @@
     "date-fns": "^4.1.0",
     "docx": "^9.6.0",
     "file-saver": "^2.0.5",
+    "firebase": "^12.10.0",
     "jspdf": "^4.2.0",
     "katex": "^0.16.32",
     "lucide-react": "^0.575.0",
